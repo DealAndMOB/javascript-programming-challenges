@@ -7,14 +7,50 @@
 📚 Nuestro Arsenal de Desafíos
 <table>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936690.png" alt="Principiante" width="100" height="100"/><br><b>🐣 Principiante</b><br>Tus primeros pasos en JS</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936886.png" alt="Intermedio" width="100" height="100"/><br><b>🏃‍♂️ Intermedio</b><br>Elevando el juego</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936744.png" alt="Avanzado" width="100" height="100"/><br><b>🦅 Avanzado</b><br>Desafía tus límites</td>
+    <td align="center">
+      <a href="./01-principiante">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936690.png" alt="Principiante" width="100" height="100"/>
+        <br><b>🐣 Principiante</b>
+        <br>Tus primeros pasos en JS
+      </a>
+    </td>
+    <td align="center">
+      <a href="./02-intermedio">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936886.png" alt="Intermedio" width="100" height="100"/>
+        <br><b>🏃‍♂️ Intermedio</b>
+        <br>Elevando el juego
+      </a>
+    </td>
+    <td align="center">
+      <a href="./03-avanzado">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936744.png" alt="Avanzado" width="100" height="100"/>
+        <br><b>🦅 Avanzado</b>
+        <br>Desafía tus límites
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936735.png" alt="Algoritmos" width="100" height="100"/><br><b>🧮 Algoritmos</b><br>Clásicos y modernos</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936709.png" alt="Estructuras de Datos" width="100" height="100"/><br><b>🌳 Estructuras de Datos</b><br>Construye y manipula</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2936/2936674.png" alt="Proyectos" width="100" height="100"/><br><b>🏗️ Proyectos</b><br>Aplica lo aprendido</td>
+    <td align="center">
+      <a href="./04-algoritmos">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936735.png" alt="Algoritmos" width="100" height="100"/>
+        <br><b>🧮 Algoritmos</b>
+        <br>Clásicos y modernos
+      </a>
+    </td>
+    <td align="center">
+      <a href="./05-estructuras-de-datos">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936709.png" alt="Estructuras de Datos" width="100" height="100"/>
+        <br><b>🌳 Estructuras de Datos</b>
+        <br>Construye y manipula
+      </a>
+    </td>
+    <td align="center">
+      <a href="./06-proyectos">
+        <img src="https://cdn-icons-png.flaticon.com/512/2936/2936674.png" alt="Proyectos" width="100" height="100"/>
+        <br><b>🏗️ Proyectos</b>
+        <br>Aplica lo aprendido
+      </a>
+    </td>
   </tr>
 </table>
 🎯 Tu Camino al Éxito
