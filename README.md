@@ -1,62 +1,49 @@
 🚀 Ejercicios de Lógica de Programación en JavaScript
-<div align="center">
 Show Image
 Show Image
 Show Image
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="200" height="200"/>
-</div>
-🌟 Bienvenido a tu Gimnasio Mental de JavaScript
-¿Listo para ejercitar tus neuronas y convertirte en un maestro del código? ¡Has llegado al lugar correcto! Este repositorio es tu compañero de entrenamiento personal para la lógica de programación en JavaScript.
+Bienvenido a tu gimnasio mental de JavaScript. Este repositorio es tu compañero de entrenamiento personal para mejorar tu lógica de programación y habilidades en JS.
+📚 Contenido
+Encuentra ejercicios organizados en las siguientes categorías:
 
-📚 Nuestro Arsenal de Desafíos
-<table>
-  <tr>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Principiante" /><br><b>🐣 Principiante</b><br>Tus primeros pasos en JS</td>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Intermedio" /><br><b>🏃‍♂️ Intermedio</b><br>Elevando el juego</td>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Avanzado" /><br><b>🦅 Avanzado</b><br>Desafía tus límites</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Algoritmos" /><br><b>🧮 Algoritmos</b><br>Clásicos y modernos</td>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Estructuras de Datos" /><br><b>🌳 Estructuras de Datos</b><br>Construye y manipula</td>
-    <td align="center"><img src="/api/placeholder/100/100" alt="Proyectos" /><br><b>🏗️ Proyectos</b><br>Aplica lo aprendido</td>
-  </tr>
-</table>
+🐣 Principiante: Fundamentos de JavaScript
+🏃‍♂️ Intermedio: Retos más complejos
+🦅 Avanzado: Problemas de alto nivel
+🧮 Algoritmos: Implementaciones clásicas y modernas
+🌳 Estructuras de Datos: Manipulación de datos
 
-🎯 Tu Camino al Éxito
+🎯 Objetivos
 
-Mejora tu Lógica: Resuelve problemas cada vez más complejos.
-Prepárate para Entrevistas: Domina los desafíos que te esperan.
-Domina JavaScript: Profundiza en los secretos del lenguaje.
+Mejorar tu lógica de programación
+Prepararte para entrevistas técnicas
+Profundizar tu comprensión de JavaScript
 
+🚀 Cómo Empezar
 
-🚀 Despegando con Nuestros Ejercicios
+Clona el repositorio
+Elige una carpeta según tu nivel o interés
+Lee las instrucciones del ejercicio
+¡Resuelve el desafío!
+Compara con las soluciones proporcionadas
 
-📥 Clona el Repositorio: git clone [URL del repositorio]
-🗂️ Explora las Carpetas: Elige tu nivel o área de interés.
-📝 Lee las Instrucciones: Cada ejercicio tiene su propia guía.
-💡 Resuelve el Desafío: ¡Pon a prueba tus habilidades!
-🔍 Revisa las Soluciones: Compara y aprende de diferentes enfoques.
+🤝 Contribuciones
+¡Tus contribuciones son bienvenidas! Si tienes un ejercicio interesante:
 
+Haz un fork del repositorio
+Crea una nueva rama (git checkout -b nuevo-ejercicio)
+Añade tu ejercicio
+Haz commit de tus cambios (git commit -am 'Añadir nuevo ejercicio')
+Push a la rama (git push origin nuevo-ejercicio)
+Abre un Pull Request
 
-🤝 Únete a Nuestra Comunidad de Código
-¿Tienes un ejercicio brillante? ¡Compártelo con el mundo!
+📈 Próximamente
 
-🍴 Fork el repositorio
-🌿 Crea una nueva rama: git checkout -b mi-nuevo-ejercicio
-✨ Añade tu magia
-📊 Haz commit: git commit -am 'Añadir nuevo super ejercicio'
-🚀 Push a tu rama: git push origin mi-nuevo-ejercicio
-🔀 Abre un Pull Request y ¡listo!
-
-
-📈 Tablero de Líderes
-Próximamente... ¡Compite con otros developers y alcanza la cima!
+Tablero de líderes
+Desafíos semanales
+Tutoriales en video
 
 📜 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-<div align="center">
-🌟 ¿Te gusta lo que ves? ¡Dale una estrella! 🌟
-Show Image
+🌟 ¿Te resulta útil? ¡Dale una estrella! 🌟
 ¡Feliz Programación! 💻✨
-</div>
